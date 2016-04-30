@@ -63,7 +63,7 @@ class player:private human {
 
 public:
 	player(vector<point>& s,vector<vector<int>>& f):human(s,f){
-		//, khgk;
+		
 	}
 };
 class enemy :private sprite {
