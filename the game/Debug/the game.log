@@ -1,16 +1,7 @@
 ﻿  Source.cpp
-c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(38): error C2084: function 'point::point(point &&)' already has a body
-  c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(10): note: see previous definition of '{ctor}'
-c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(41): error C2065: 'sprite': undeclared identifier
-c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(41): error C2059: syntax error: '>'
-c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(41): error C2976: 'std::set': too few template arguments
-  c:\program files (x86)\microsoft visual studio 14.0\vc\include\set(43): note: see declaration of 'std::set'
-c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(41): error C2133: 'ListOfMovingObjects': unknown size
-c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(41): error C2512: 'std::set': no appropriate default constructor available
-  c:\program files (x86)\microsoft visual studio 14.0\vc\include\set(43): note: see declaration of 'std::set'
-c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(44): error C2512: 'point': no appropriate default constructor available
-  c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(6): note: see declaration of 'point'
-c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(45): error C2663: 'std::set<_Kty,_Pr,_Alloc>::insert': 5 overloads have no legal conversion for 'this' pointer
-c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(50): error C2663: 'std::_Tree<_Traits>::erase': 3 overloads have no legal conversion for 'this' pointer
-c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(58): error C2371: 'ListOfMovingObjects': redefinition; different basic types
-  c:\users\mr.3wais\documents\visual studio 2015\projects\the game\the game\source.cpp(41): note: see declaration of 'ListOfMovingObjects'
+c:\users\mr.3wais\documents\github\the-game\the game\source.cpp(181): warning C4018: '<': signed/unsigned mismatch
+c:\users\mr.3wais\documents\github\the-game\the game\source.cpp(229): warning C4018: '<': signed/unsigned mismatch
+c:\users\mr.3wais\documents\github\the-game\the game\source.cpp(234): warning C4018: '<': signed/unsigned mismatch
+c:\users\mr.3wais\documents\github\the-game\the game\source.cpp(241): warning C4018: '<': signed/unsigned mismatch
+c:\users\mr.3wais\documents\github\the-game\the game\source.cpp(37): warning C4715: 'point::operator[]': not all control paths return a value
+  the game.vcxproj -> C:\Users\mr.3wais\Documents\GitHub\the-game\Debug\the game.exe

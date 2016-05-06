@@ -1,0 +1,3 @@
+﻿  Source.cpp
+c:\users\mr.3wais\documents\github\the-game\the game\source.cpp(36): warning C4715: 'point::operator[]': not all control paths return a value
+  the game.vcxproj -> C:\Users\mr.3wais\Documents\GitHub\the-game\x64\Debug\the game.exe
